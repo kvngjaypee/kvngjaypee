@@ -7,7 +7,7 @@ Software Developer
 My name is Chiemezuo. It's pronounced: "Chee-ei-may-zoo-oh". I'm a full-stack developer, with a particular soft spot for working on backends. My love for programming stems from being able to solve problems and build amazing things with computers. I love learning, and very often refer to myself as a lifelong learner. My coding journey is an unconventional one that has led me to play with different programming languages, in different editors, and on different operating systems. And I can tell you for a fact that backend development is hands-down the most exciting thing for me, although I do a really great job at the frontend side of things. When I'm not advancing my software craft, you will probably find me hanging out with friends, listening to podcasts or electronic music, playing board games, or working out.
 
 * 🌍  I'm based in Abuja, Nigeria.
-* 🖥️  See my portfolio at [my website](http://mezuo.me/portfolio)
+* 🖥️  See my portfolio at [my website](https://chiemezuo.onrender.com/portfolio)
 * ✉️  You can contact me at [chiemezuoakujobi@gmail.com](mailto:chiemezuoakujobi@gmail.com)
 * 🧠  I'm learning MongoDB data modelling patterns.
 * 🤝  I'm open to collaborating on novel ideas, web projects, and anything in general than makes life more exciting.
