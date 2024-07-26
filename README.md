@@ -7,7 +7,7 @@ My name is Johnpaul. I'm a full-stack developer, with a particular soft spot for
 - 🌍  I'm based in Lagos, Nigeria.
 - ✉️  You can contact me at [johnpaulanyanwu17@gmail.com](mailto:johnpaulanyanwu17@gmail.com)
 - 🧠  I'm learning JavaScript Algorithms and Data Structures.
-- 🤝  I'm open to collaborating on novel ideas, web projects, and anything in general than makes life more exciting.
+- 🤝  I'm open to collaborating on web projects, and anything in general than makes life more exciting.
 - ⚡  I am a big fan of Nas Daily and i love reading Technical article.
 
 ### Skills
